@@ -23,5 +23,6 @@ LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += android-support-v13:android-support-v13.
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += guava:guava-15.0.jar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += android-common:com.android.common-8.jar
 LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += telephony-common:telephony-common-14.jar
+LOCAL_PREBUILT_STATIC_JAVA_LIBRARIES += android-support-v7-recyclerview:android-support-v7-recyclerview.jar
 
 include $(BUILD_MULTI_PREBUILT)
